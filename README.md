@@ -1,4 +1,4 @@
-[![MasterHead](file:///C:/Users/LENOVE/Downloads/programming-code-writing-isometric-icon-software-development-laptop-with-text-program-code_4102323.htm)](https://rishavchanda.io)
+[![MasterHead]([https://www.shutterstock.com/image-illustration/banner-about-programming-coding-course-neural-1887006397](https://www.shutterstock.com/image-illustration/banner-about-programming-coding-course-neural-1887006397))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm SUBHAJYOTI PRUSTY</h1>
 <h3 align="center">Passionate Coder</h3>
 
