@@ -1,24 +1,21 @@
-<h1 align="center">Hi 👋, I'm Subhajyoti Prusty</h1>
-<h3 align="center">Learning coading slowly and steadily</h3>
+# 💫 About Me:
+- 🌱 I’m currently learning *HTML & CSS*<br>- 📫 How to reach me in/subhajyoti-prusty-46b498257<br>- ⚡ Fun fact I think that I can think better
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subhajyoti-prusty&label=Profile%20views&color=0e75b6&style=flat" alt="subhajyoti-prusty" /> </p>
 
-- 🌱 I’m currently learning **Web Development**
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/subhajyoti-prusty-46b498257) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/ subhajyoti prusty) 
 
-- 📫 How to reach me **https://www.linkedin.com/in/subhajyoti-prusty-46b498257**
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=subhajyoti-prusty&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=subhajyoti-prusty&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=subhajyoti-prusty&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- ⚡ Fun fact **I think that I can think better**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=subhajyoti-prusty&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/subhajyoti-prusty-46b498257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/subhajyoti-prusty-46b498257" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21524211/subhajyoti-prusty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21524211/subhajyoti-prusty" height="30" width="40" /></a>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=subhajyoti-prusty&icon=6&color=5)](https://visitcount.itsvg.in)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhajyoti-prusty&show_icons=true&locale=en&layout=compact" alt="subhajyoti-prusty" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhajyoti-prusty&show_icons=true&locale=en" alt="subhajyoti-prusty" /></p>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
