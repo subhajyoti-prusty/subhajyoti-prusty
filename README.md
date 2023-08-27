@@ -1,4 +1,4 @@
-# 💫 About Me:
+                                                        Hi👋🏻, I'm SUBHAJYOTI PRUSTY
 - 🌱 I’m currently learning *HTML & CSS*<br>- 📫 How to reach me in/subhajyoti-prusty-46b498257<br>- ⚡ Fun fact I think that I can think better
 
 
