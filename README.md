@@ -1,5 +1,6 @@
+
 <h1 align="center">Hi 👋, I'm SUBHAJYOTI PRUSTY</h1>
-<p align="center"><img src = "https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?w=996&t=st=1693740055~exp=1693740655~hmac=0cea8cdebb8c1566e650b5cc234b14a9e245e1eaa62cc5b3de1f362f7c5f3da9" alt="......" length="500" width = "500"></p>
+<p align="center"><img src = "https://i.pinimg.com/564x/fc/73/0c/fc730cf040552a5c6892f6743163e6a8.jpg" alt="......" length="500" width = "500"></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhajyoti-prusty&label=Profile%20views&color=0e75b6&style=flat" alt="subhajyoti-prusty" /> </p>
 
 - 🔭 I’m currently Studing **.**
@@ -21,4 +22,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhajyoti-prusty&show_icons=true&locale=en&layout=compact" alt="subhajyoti-prusty" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhajyoti-prusty&show_icons=true&locale=en" alt="subhajyoti-prusty" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhajyoti-prusty&show_icons=true&locale=en" alt="subhajyoti-prusty" /><img  align="right" src = "https://i.pinimg.com/564x/89/f6/f4/89f6f44d173b1855b90e0a64adab1d0a.jpg" alt="......" length="100" width = "200"/></p>
