@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm SUBHAJYOTI PRUSTY</h1>
+<p align="center"><img src = "https://i.pinimg.com/564x/fc/73/0c/fc730cf040552a5c6892f6743163e6a8.jpg" alt="......" length="500" width = "500"></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhajyoti-prusty&label=Profile%20views&color=0e75b6&style=flat" alt="subhajyoti-prusty" /> </p>
 
 - 🔭 I’m Now Studing **.**
