@@ -22,4 +22,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhajyoti-prusty&show_icons=true&locale=en&layout=compact" alt="subhajyoti-prusty" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhajyoti-prusty&show_icons=true&locale=en" alt="subhajyoti-prusty" /><img  align="right" src = "https://i.pinimg.com/564x/89/f6/f4/89f6f44d173b1855b90e0a64adab1d0a.jpg" alt="......" length="100" width = "200"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhajyoti-prusty&show_icons=true&locale=en" alt="subhajyoti-prusty" /></p>
