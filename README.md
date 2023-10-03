@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/in/subhajyoti-prusty-46b498257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/subhajyoti-prusty-46b498257" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/subhajyoti prusty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="subhajyoti prusty" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/subhajyoti-prusty/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/subhajyoti-prusty/" height="30" width="40" /></a>
+<a href="leetcode.com/Subhajyoti-Prusty/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/subhajyoti-prusty/" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/mwz4hwUr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/mwz4hwUr" height="30" width="40" /></a>
 </p>
 
