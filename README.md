@@ -28,7 +28,7 @@
 <h3 align="left">Coding Profile:</h3>
 <p align="left">
 <!--   <a href="https://stackoverflow.com/users/subhajyoti prusty" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/stackoverflow_icon_130823.png" alt="subhajyoti prusty"     height="40" width="40" /></a> -->
-  <a href="leetcode.com/Subhajyoti-Prusty/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png"   alt="https://leetcode.com/subhajyoti-prusty/" height="40" width="40" /></a>
+  <a href="https://leetcode.com/Subhajyoti-Prusty/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png"   alt="https://leetcode.com/Subhajyoti-Prusty/" height="40" width="40" /></a>
 <!--   <a href="https://discord.gg/https://discord.gg/mwz4hwUr" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" alt="https://discord.gg/mwz4hwUr" height="40" width="40" /></a> -->
   <a href="https://www.codingninjas.com/studio/profile/8a25db6d-0085-48bf-9198-c02bee7be96b" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/Dj3UlCKl9k4bfyvtSSWwCaQxp-TkmPx1Np7bT3NzqJjaZLblO5KzJM5bfR9HFfCIKfg"alt="Subhajyoti Prusty" height="40" width="40" /></a>
   <a href="https://github.com/subhajyoti-prusty" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"alt="GitHub" height="40" width="40" /></a>
