@@ -18,10 +18,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/in/subhajyoti-prusty-46b498257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/subhajyoti-prusty-46b498257" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/subhajyoti prusty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="subhajyoti prusty" height="30" width="40" /></a>
-<a href="leetcode.com/Subhajyoti-Prusty/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/subhajyoti-prusty/" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/mwz4hwUr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/mwz4hwUr" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/in/subhajyoti-prusty-46b498257" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" alt="in/subhajyoti-prusty-46b498257" height="40" width="40" /></a>
+<a href="https://stackoverflow.com/users/subhajyoti prusty" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/stackoverflow_icon_130823.png" alt="subhajyoti prusty" height="40" width="40" /></a>
+<a href="leetcode.com/Subhajyoti-Prusty/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" alt="https://leetcode.com/subhajyoti-prusty/" height="40" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/mwz4hwUr" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" alt="https://discord.gg/mwz4hwUr" height="40" width="40" /></a>
+<a href="https://www.instagram.com/subhajyoti_prusty12/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" alt="subhajyoti_prusty12" height="40" width="40" /></a>
+<a href="https://twitter.com/SubhajyotiPrus1" target="blank"><img align="center" src="https://toppng.com/uploads/preview/twitter-x-new-logo-icon-png-11692480121koxvq54was.webp" alt="SubhajyotiPrus1" height="40" width="40" /></a>
+<a href="subhajyoti.2004@gmail.com" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="subhajyoti.2004@gmail.com" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
