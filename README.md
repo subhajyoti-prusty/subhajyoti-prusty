@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm SUBHAJYOTI PRUSTY</h1>
+<h1 align="center">Hi 👋<br>
+  I'm SUBHAJYOTI PRUSTY</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhajyoti-prusty&label=Profile%20views&color=0e75b6&style=flat" alt="subhajyoti-prusty" /> </p>
 
 - 🔭 Currently pursuing Btech 2<sup>nd</sup> CSE in ITER,SOA University
@@ -30,19 +31,21 @@
   <a href="leetcode.com/Subhajyoti-Prusty/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png"   alt="https://leetcode.com/subhajyoti-prusty/" height="40" width="40" /></a>
 <!--   <a href="https://discord.gg/https://discord.gg/mwz4hwUr" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" alt="https://discord.gg/mwz4hwUr" height="40" width="40" /></a> -->
   <a href="https://www.codingninjas.com/studio/profile/8a25db6d-0085-48bf-9198-c02bee7be96b" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/Dj3UlCKl9k4bfyvtSSWwCaQxp-TkmPx1Np7bT3NzqJjaZLblO5KzJM5bfR9HFfCIKfg"alt="Subhajyoti Prusty" height="40" width="40" /></a>
+  <a href="https://github.com/subhajyoti-prusty" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png"alt="GitHub" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="" alt="java" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="" alt="linux" width="40" height="40"/> 
-  </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="" alt="photoshop" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/large/css-logo.png" alt="css3" width="30" height="45"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/html5-logo.png" alt="html5" width="30" height="45"/> </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/java-logo-2.png" alt="java" width="30" height="45"/> </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/linux-tux-logo.png" alt="linux" width="40" height="40"/> 
+  </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/9c/ea/ba/9ceaba69b7a9f89158ff953107978f3e.png" alt="photoshop" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" alt="python" width="37" height="37"/> </a>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg" alt="bootstrap" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhajyoti-prusty&show_icons=true&locale=en&layout=compact" alt="subhajyoti-prusty" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhajyoti-prusty&show_icons=true&locale=en&layout=compact" alt="subhajyoti-prusty" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhajyoti-prusty&show_icons=true&locale=en" alt="subhajyoti-prusty" /></p>
 
