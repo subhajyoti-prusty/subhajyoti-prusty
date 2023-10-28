@@ -25,7 +25,6 @@
 <a href="subhajyoti.2004@gmail.com" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="subhajyoti.2004@gmail.com" height="40" width="40" /></a>
 </p>
 
-
 <h3 align="left">Coding Profile:</h3>
 <p align="left">
 <!--   <a href="https://stackoverflow.com/users/subhajyoti prusty" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/stackoverflow_icon_130823.png" alt="subhajyoti prusty"     height="40" width="40" /></a> -->
