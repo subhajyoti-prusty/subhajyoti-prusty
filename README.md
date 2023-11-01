@@ -48,7 +48,9 @@
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg" alt="bootstrap" width="40" height="40"/> </a>
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png" alt="javascript" width="40" height="40"/> </a>
   <a href="https://thonny.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Thonny_logo.png" alt="thonny" width="40" height="40"/> </a>
+  <a href="https://www.drawio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Diagrams.net_Logo.svg/1200px-Diagrams.net_Logo.svg.png" alt="drawio" width="40" height="40"/> </a>
 <!--   <a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a>
+  <a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a>
   <a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a>
   <a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a> -->
 </p>
