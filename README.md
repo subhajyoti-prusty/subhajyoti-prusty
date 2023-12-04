@@ -16,6 +16,8 @@
       - HTML <br>
       - CSS <br>
       - BOOTSTRAP <br>
+      - <br>
+      - JQUERY <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -51,12 +53,12 @@
   <a href="https://www.drawio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Diagrams.net_Logo.svg/1200px-Diagrams.net_Logo.svg.png" alt="drawio" width="40" height="40"/> </a>
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" alt="jupyter notebook" width="40" height="40"/> </a>
   <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" alt="eclipse" width="40" height="40"/> </a>
-<!--   <a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/512/824/png-transparent-visual-studio-code-hd-logo-thumbnail.png" alt="VS CODE" width="40" height="40"/> </a>
   <a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a>
   <a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a>
   <a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a>
   <a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a>
-  <a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a> -->
+  <a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a>
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhajyoti-prusty&show_icons=true&locale=en&layout=compact" alt="subhajyoti-prusty" /></p>
