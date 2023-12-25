@@ -16,7 +16,7 @@
       - HTML <br>
       - CSS <br>
       - BOOTSTRAP <br>
-      - <br>
+      - JAVASCRIPT<br>
       - JQUERY <br>
 
 <h3 align="left">Connect with me:</h3>
