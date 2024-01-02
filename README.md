@@ -2,13 +2,13 @@
   I'm SUBHAJYOTI PRUSTY</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhajyoti-prusty&label=Profile%20views&color=0e75b6&style=flat" alt="subhajyoti-prusty" /> </p>
 
-- 🔭 Currently pursuing Btech 2<sup>nd</sup> CSE in ITER,SOA University
+- 🔭 Currently pursuing Btech 2<sup>nd</sup> CSE in ITER,SOA University.
 
-- 🌱 learning **Full Stack Web Development**
+- 🌱 learning **Full Stack Web Development**.
 
-- 📫 How to reach me **in/subhajyoti-prusty-46b498257**
+- 📫 How to reach me **in/subhajyoti-prusty-46b498257**.
 
-- ⚡ Fun fact **I can complete my tasks on time**
+- ⚡ Fun fact **I can complete my tasks on time**.
   
 - 👨🏻‍💻 Languages & frameworks I know are:- <br>
       - JAVA <br>
