@@ -42,27 +42,36 @@
   <a href="" target="blank"><img align="center" src=""alt="" height="40" width="40" /></a> --> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages:</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/large/css-logo.png" alt="css3" width="30" height="45"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/html5-logo.png" alt="html5" width="30" height="45"/> </a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/java-logo-2.png" alt="java" width="30" height="45"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/linux-tux-logo.png" alt="linux" width="40" height="40"/> 
   </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/9c/ea/ba/9ceaba69b7a9f89158ff953107978f3e.png" alt="photoshop" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" alt="python" width="37" height="37"/> </a>
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg" alt="bootstrap" width="40" height="40"/> </a>
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/1004/13/png-transparent-jquery-hd-logo.png" alt="Jquery" width="40" height="40"/> </a>
+  <!-- <a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a>
+  <a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a>
+  <a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a>
+  <a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a> -->
+</p>
+<h3 align="left">Tools:</h3>
+<p>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/linux-tux-logo.png" alt="linux" width="40" height="40"/> 
   <a href="https://thonny.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Thonny_logo.png" alt="thonny" width="40" height="40"/> </a>
   <a href="https://www.drawio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Diagrams.net_Logo.svg/1200px-Diagrams.net_Logo.svg.png" alt="drawio" width="40" height="40"/> </a>
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" alt="jupyter notebook" width="40" height="40"/> </a>
   <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" alt="eclipse" width="40" height="40"/> </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/512/824/png-transparent-visual-studio-code-hd-logo-thumbnail.png" alt="VS CODE" width="40" height="40"/> </a>
-<!--   <a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a>
+    <!--   <a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a>
   <a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a>
   <a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a>
   <a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a>
   <a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a> -->
 </p>
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhajyoti-prusty&show_icons=true&locale=en&layout=compact" alt="subhajyoti-prusty" /></p>
 
