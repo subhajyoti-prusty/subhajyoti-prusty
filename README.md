@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋<br>
   I'm SUBHAJYOTI PRUSTY</h1>
-  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhajyoti-prusty&label=Profile%20views&color=0e75b6&style=flat" alt="subhajyoti-prusty" /> </p>
 
 - 🔭 Currently pursuing Btech 2<sup>nd</sup> CSE in ITER,SOA University.
