@@ -17,6 +17,7 @@
       - HTML <br>
       - CSS <br>
       - BOOTSTRAP <br>
+      - TAILWINDCSS <br>
       - JAVASCRIPT<br>
       - JQUERY <br>
 
