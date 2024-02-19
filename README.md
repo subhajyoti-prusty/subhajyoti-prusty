@@ -20,7 +20,7 @@
       - TAILWINDCSS <br>
       - JAVASCRIPT<br>
       - JQUERY <br>
-
+      
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/subhajyoti-prusty-46b498257/" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" alt="in/subhajyoti-prusty-46b498257" height="40" width="40" /></a>
