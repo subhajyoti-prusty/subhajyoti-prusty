@@ -61,7 +61,7 @@
 </p>
 <h3 align="left">Tools:</h3>
 <p>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/linux-tux-logo.png" alt="linux" width="50" height="50"/> 
+<!--   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/linux-tux-logo.png" alt="linux" width="50" height="50"/>  -->
   <a href="https://thonny.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Thonny_logo.png" alt="thonny" width="50" height="50"/> </a>
   <a href="https://www.drawio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Diagrams.net_Logo.svg/1200px-Diagrams.net_Logo.svg.png" alt="drawio" width="50" height="50"/> </a>
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" alt="jupyter notebook" width="50" height="50"/> </a>
