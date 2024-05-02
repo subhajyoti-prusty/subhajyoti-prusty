@@ -5,7 +5,7 @@
 
 - 🔭 Currently pursuing Btech 2<sup>nd</sup> CSE in ITER,SOA University.
 
-- 🌱 learning **Full Stack Web Development**.
+- 🌱 learning **Full Stack Web Development & Data Science**.
 
 - 📫 How to reach me **in/subhajyoti-prusty-46b498257**.
 
