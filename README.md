@@ -1,6 +1,7 @@
+<!-- <img width="7000" height="400" src="https://img.freepik.com/free-photo/programming-background-with-html-text_23-2150040420.jpg?t=st=1719909006~exp=1719912606~hmac=c7ee424bf86800535ea02756519e9acdf55f62035446196c9b72f8439e9b90d1&w=1060"> --> 
 <h1 align="center">HEY! 👋<br>
   It's SUBHAJYOTI PRUSTY </h1>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-photo/blockchain-technology-cartoon-illustration_23-2151572132.jpg?t=st=1719908123~exp=1719911723~hmac=e03379a3023668b0f8df9364987861e7004712a97d1e677fbf2766672c6343b2&w=900">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhajyoti-prusty&label=Profile%20views&color=0e75b6&style=flat" alt="subhajyoti-prusty" /> </p>
 
 - 🎓 Currently pursuing Btech 3<sup>rd</sup> CSE in ITER,SOA University.
@@ -72,8 +73,8 @@
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/25/6c/d9/256cd9ab1bf4323d26460ab0384b64a2.png" alt="PPT" width="50" height="50"/> </a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="" width="50" height="50"/> </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" alt="" width="50" height="50"/> </a>
-  <!--   <a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="50" height="50"/> </a>
-  <a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="50" height="50"/> </a> -->
+  <a href="https://scikit-learn.org/stable/#" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/39/4/png-clipart-logo-scikit-learn-python-github-machine-learning-text-orange.png" alt="" width="55" height="48"/> </a>
+  <!--   <a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="50" height="50"/> </a> -->
   <!--   <a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="50" height="50"/> </a>
   <a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="50" height="50"/> </a>
   <a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="50" height="50"/> </a> -->
