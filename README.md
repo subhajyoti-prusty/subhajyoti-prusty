@@ -49,7 +49,7 @@
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/large/css-logo.png" alt="css3" width="40" height="55"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/html5-logo.png" alt="html5" width="40" height="55"/> </a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/java-logo-2.png" alt="java" width="45" height="50"/> </a> 
-  </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/9c/ea/ba/9ceaba69b7a9f89158ff953107978f3e.png" alt="photoshop" width="50" height="50"/> </a> 
+  </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" alt="python" width="47" height="47"/> </a>
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg" alt="bootstrap" width="50" height="50"/> </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeKPw4CK4jcH7udsFHZdiB3iIOuI3fUCsxUZosXy4Y1yd25NA-dzCBPrSDIhg1BwObl3w&usqp=CAU" alt="Tailwindcss" width="50" height="50"/> </a>
@@ -68,6 +68,7 @@
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" alt="jupyter notebook" width="50" height="50"/> </a>
   <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" alt="eclipse" width="50" height="50"/> </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://code.visualstudio.com/assets/branding/app-icon.png" alt="VS CODE" width="55" height="55"/> </a>
+  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/9c/ea/ba/9ceaba69b7a9f89158ff953107978f3e.png" alt="photoshop" width="50" height="50"/> </a> 
   <a href="https://playground.powerbi.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" alt="PowerBI" width="50" height="50"/> </a>
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/736x/13/88/5f/13885f590c6070c7f106b0f19a17ab9b.jpg" alt="Excel" width="50" height="50"/> </a>
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/25/6c/d9/256cd9ab1bf4323d26460ab0384b64a2.png" alt="PPT" width="50" height="50"/> </a>
