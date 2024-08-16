@@ -21,6 +21,7 @@
       - TAILWINDCSS <br>
       - JAVASCRIPT<br>
       - JQUERY <br>
+      - ANGULAR <br>
       - SQL <br>
       
 <h3 align="left">Connect with me:</h3>
