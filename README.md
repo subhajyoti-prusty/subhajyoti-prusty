@@ -1,5 +1,5 @@
 <h1 align="center">HEY! 👋<br>It's SUBHAJYOTI PRUSTY </h1>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-photo/blockchain-technology-cartoon-illustration_23-2151572132.jpg?t=st=1719908123~exp=1719911723~hmac=e03379a3023668b0f8df9364987861e7004712a97d1e677fbf2766672c6343b2&w=900">
+<!-- <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-photo/blockchain-technology-cartoon-illustration_23-2151572132.jpg?t=st=1719908123~exp=1719911723~hmac=e03379a3023668b0f8df9364987861e7004712a97d1e677fbf2766672c6343b2&w=900"> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhajyoti-prusty&label=Profile%20views&color=0e75b6&style=flat" alt="subhajyoti-prusty" /> </p>
 
 - 🎓 Currently pursuing Btech 3<sup>rd</sup> CSE in ITER,SOA University.
