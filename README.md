@@ -6,7 +6,7 @@
 
 - 👨🏻‍💻 learning **Full Stack Web Development, Data Science & ML**.
 
-- 🌐 I can be reached in <a href="in/subhajyoti-prusty-46b498257">LinkedIn</a> & subhajyoti.2004@gmail.com  <!-- **in/subhajyoti-prusty-46b498257**. -->
+- 🌐 I can be reached in <a href="https://www.linkedin.com/in/subhajyoti-prusty-46b498257/">LinkedIn</a> & subhajyoti.2004@gmail.com  <!-- **in/subhajyoti-prusty-46b498257**. -->
 
 - 🌟 Fun fact **I can complete my tasks on time**.
       
