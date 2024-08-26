@@ -24,9 +24,10 @@
   <a href="https://github.com/subhajyoti-prusty" target="blank"><img align="center" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png"alt="GitHub" height="40" width="40" /></a>
   <a href="https://replit.com/~" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/New_Replit_Logo.svg/1200px-New_Replit_Logo.svg.png"alt="replit" height="40" width="40" /></a>
   <a href="https://www.hackerrank.com/profile/subhajyoti_20041" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png"alt="hackerrank" height="40" width="40" /></a>
-<!--   <a href="" target="blank"><img align="center" src=""alt="" height="40" width="40" /></a>
-  <a href="" target="blank"><img align="center" src=""alt="" height="40" width="40" /></a>
-  <a href="" target="blank"><img align="center" src=""alt="" height="40" width="40" /></a> --> 
+      <!--   <a href="" target="blank"><img align="center" src=""alt="" height="40" width="40" /></a> --> 
+      <!--   <a href="" target="blank"><img align="center" src=""alt="" height="40" width="40" /></a> --> 
+      <!--   <a href="" target="blank"><img align="center" src=""alt="" height="40" width="40" /></a> --> 
+      <!--   <a href="" target="blank"><img align="center" src=""alt="" height="40" width="40" /></a> --> 
 </p>
 
 <h3 align="left">Tech Skills:</h3>
@@ -42,6 +43,8 @@
   <a href="" target="blank"><img src="https://w7.pngwing.com/pngs/74/362/png-transparent-typescript-plain-logo-icon-thumbnail.png"alt="" height="40" width="40"/></a>
   <a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/1004/13/png-transparent-jquery-hd-logo.png" alt="Jquery" width="40" height="40"/> </a>
   <a href="https://angular.dev/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/A/angular-icon-logo-5FC0C40EAC-seeklogo.com.png" alt="" width="40" height="40"/> </a>
+  <a href="#" target="blank"><img align="center" src="https://www.primefaces.org/wp-content/uploads/2018/05/primeng-logo.png"alt="" height="40" width="40" /></a>
+      <a href="#" target="blank"><img align="center" src=""alt="" height="40" width="40" /></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="MySQL" width="40" height="40"/> </a>
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="" width="40" height="40"/> </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" alt="" width="40" height="40"/> </a>
