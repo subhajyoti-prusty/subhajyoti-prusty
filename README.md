@@ -64,5 +64,5 @@
   <a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="50" height="50"/> </a> -->
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhajyoti-prusty&show_icons=true&locale=en&layout=compact" alt="subhajyoti-prusty" /> <img align="right"  height ="165px" src="https://github-readme-stats.vercel.app/api?username=subhajyoti-prusty&show_icons=true&locale=en" alt="subhajyoti-prusty" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhajyoti-prusty&show_icons=true&locale=en&layout=compact" alt="subhajyoti-prusty" /> <img align="center"  height ="165px" src="https://github-readme-stats.vercel.app/api?username=subhajyoti-prusty&show_icons=true&locale=en" alt="subhajyoti-prusty" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhajyoti-prusty&" alt="subhajyoti-prusty" /></p>
