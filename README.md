@@ -58,7 +58,7 @@
   <a href="https://playground.powerbi.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" alt="PowerBI" width="40" height="40"/> </a>
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/736x/13/88/5f/13885f590c6070c7f106b0f19a17ab9b.jpg" alt="Excel" width="40" height="40"/> </a>
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/25/6c/d9/256cd9ab1bf4323d26460ab0384b64a2.png" alt="PPT" width="40" height="40"/> </a>
-  <!--   <a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="50" height="50"/> </a> -->
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/git-icon-2048x2048-juzdf1l5.png" alt="Git" width="40" height="40"/> </a>
   <!--   <a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="50" height="50"/> </a>
   <a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="50" height="50"/> </a>
   <a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="50" height="50"/> </a> -->
