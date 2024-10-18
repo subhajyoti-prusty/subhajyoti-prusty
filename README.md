@@ -53,7 +53,7 @@
       <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" alt="" width="40" height="40"/> </a>
       <a href="https://scikit-learn.org/stable/#" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/39/4/png-clipart-logo-scikit-learn-python-github-machine-learning-text-orange.png" alt="" width="45" height="38"/> </a>
 <!--       <br> -->
-      <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://code.visualstudio.com/assets/branding/app-icon.png" alt="VS CODE" width="45" height="45"/> </a>
+      <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS CODE" width="45" height="45"/> </a>
       <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" alt="eclipse" width="40" height="40"/> </a>
       <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" alt="jupyter notebook" width="40" height="40"/> </a>
       <a href="#" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/25/6c/d9/256cd9ab1bf4323d26460ab0384b64a2.png" alt="PPT" width="40" height="40"/> </a>
