@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhajyoti-prusty&label=Profile%20views&color=0e75b6&style=flat" alt="subhajyoti-prusty" /> </p>
 
 - 🎓 Currently pursuing Btech 3<sup>rd</sup> CSE in ITER,SOA University.
-- 
+
 - 👨🏻‍💻 learning **Full Stack Web Development, Data Science & ML**.
 
 - 🌐 I can be reached in <a href="https://www.linkedin.com/in/subhajyoti-prusty-46b498257/">LinkedIn</a> & subhajyoti.2004@gmail.com  <!-- **in/subhajyoti-prusty-46b498257**. -->
