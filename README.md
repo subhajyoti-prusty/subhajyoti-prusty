@@ -42,7 +42,7 @@
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="MySQL" width="40" height="40"/> </a>
       <a href="" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/git-icon-2048x2048-juzdf1l5.png" alt="Git" width="40" height="40"/> </a>
 <!--       <br> Fram -->
-      <a href="https://angular.dev/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/A/angular-icon-logo-5FC0C40EAC-seeklogo.com.png" alt="" width="40" height="40"/> </a>
+      <a href="https://angular.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt="" width="40" height="43"/> </a>
       <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg" alt="bootstrap" width="40" height="40"/> </a>
       <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeKPw4CK4jcH7udsFHZdiB3iIOuI3fUCsxUZosXy4Y1yd25NA-dzCBPrSDIhg1BwObl3w&usqp=CAU" alt="Tailwindcss" width="40" height="40"/> </a>
 <!--       <br> Lib -->
