@@ -49,6 +49,10 @@
       <a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/1004/13/png-transparent-jquery-hd-logo.png" alt="Jquery" width="40" height="40"/> </a>
       <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.primefaces.org/wp-content/uploads/2018/05/primeng-logo.png" alt="" width="40" height="40"/> </a>
       <a href="#" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/1662024981302132740/Y0uz-3YC_400x400.jpg" alt="" width="40" height="40"/> </a>
+      <a href="" target="_blank" rel="noreferrer"> <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="junit5" width="40" height="40"/> </a>
+      <a href="" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/hibernate-icon-491x512-qd6jy16p.png" alt="" width="40" height="40"/> </a>
+      <a href="" target="_blank" rel="noreferrer"> <img src="https://www.seekpng.com/png/full/259-2595551_java-logo-transparent-47568-loadtve-jsp-servlet.png" alt="" width="65" height="40"/> </a>
+      <a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/1200px-Spring_Boot.svg.png" alt="" width="40" height="40"/> </a>
       <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="" width="40" height="40"/> </a>
       <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" alt="" width="40" height="40"/> </a>
       <a href="https://scikit-learn.org/stable/#" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/39/4/png-clipart-logo-scikit-learn-python-github-machine-learning-text-orange.png" alt="" width="45" height="38"/> </a>
@@ -64,9 +68,10 @@
       <a href="https://www.drawio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Diagrams.net_Logo.svg/1200px-Diagrams.net_Logo.svg.png" alt="drawio" width="40" height="40"/> </a>
       <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/linux-tux-logo.png" alt="linux" width="40" height="40"/>
       <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-512.png" alt="Figma" width="40" height="40"/> </a>
-  <!--   <a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="50" height="50"/> </a>
-  <a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="50" height="50"/> </a>
-  <a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="50" height="50"/> </a> -->
+      <!-- <a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a>
+      <a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a> 
+      <a href="" target="_blank" rel="noreferrer"> <img src="" alt="" width="40" height="40"/> </a> -->
+            
 </p>
             
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhajyoti-prusty&show_icons=true&locale=en&layout=compact" alt="subhajyoti-prusty" /> <img align="center"  height ="165px" src="https://github-readme-stats.vercel.app/api?username=subhajyoti-prusty&show_icons=true&locale=en" alt="subhajyoti-prusty" /></p>
