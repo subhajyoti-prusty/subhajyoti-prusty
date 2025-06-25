@@ -2,13 +2,13 @@
 <!-- <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-photo/blockchain-technology-cartoon-illustration_23-2151572132.jpg?t=st=1719908123~exp=1719911723~hmac=e03379a3023668b0f8df9364987861e7004712a97d1e677fbf2766672c6343b2&w=900"> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhajyoti-prusty&label=Profile%20views&color=0e75b6&style=flat" alt="subhajyoti-prusty" /> </p>
 
-- 🎓 Currently pursuing Btech 3<sup>rd</sup> CSE in ITER,SOA University.
+- 🎓 Currently pursuing B.Tech Final Year CSE in ITER,SOA University.
 
-- 👨🏻‍💻 learning **Full Stack Web Development, Data Science & ML**.
+- 👨🏻‍💻 learning more and more about **Web Dev & DevOps** day by day.
 
 - 🌐 I can be reached in <a href="https://www.linkedin.com/in/subhajyoti-prusty-46b498257/">LinkedIn</a> & subhajyoti.2004@gmail.com  <!-- **in/subhajyoti-prusty-46b498257**. -->
 
-- 🌟 Fun fact **I can complete my tasks on time**.
+- 🌟 Current working as an **Junior Developer and Business logic analysis**.
       
 <h4 align="left">Connect with me:</h4>
 <p align="left">
