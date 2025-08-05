@@ -22,7 +22,7 @@
 <!--   <a href="https://discord.gg/https://discord.gg/mwz4hwUr" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" alt="https://discord.gg/mwz4hwUr" height="40" width="40" /></a> -->
   <a href="https://www.codingninjas.com/studio/profile/8a25db6d-0085-48bf-9198-c02bee7be96b" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/Dj3UlCKl9k4bfyvtSSWwCaQxp-TkmPx1Np7bT3NzqJjaZLblO5KzJM5bfR9HFfCIKfg"alt="Subhajyoti Prusty" height="40" width="40" /></a>
   <a href="https://github.com/subhajyoti-prusty" target="blank"><img align="center" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png"alt="GitHub" height="40" width="40" /></a>
-  <a href="https://replit.com/~" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/New_Replit_Logo.svg/1200px-New_Replit_Logo.svg.png"alt="replit" height="40" width="40" /></a>
+<!--   <a href="https://replit.com/~" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/New_Replit_Logo.svg/1200px-New_Replit_Logo.svg.png"alt="replit" height="40" width="40" /></a> -->
   <a href="https://www.hackerrank.com/profile/subhajyoti_20041" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png"alt="hackerrank" height="40" width="40" /></a>
       <!--   <a href="" target="blank"><img align="center" src=""alt="" height="40" width="40" /></a> --> 
       <!--   <a href="" target="blank"><img align="center" src=""alt="" height="40" width="40" /></a> --> 
