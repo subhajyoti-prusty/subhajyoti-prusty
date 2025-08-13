@@ -40,7 +40,7 @@
       <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Javascript_Logo.png" alt="javascript" width="40" height="40"/> </a>
       <a href="" target="blank"><img src="https://w7.pngwing.com/pngs/74/362/png-transparent-typescript-plain-logo-icon-thumbnail.png"alt="" height="40" width="40"/></a>
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="MySQL" width="40" height="40"/> </a>
-      <a href="" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/git-icon-2048x2048-juzdf1l5.png" alt="Git" width="40" height="40"/> </a>
+      <a href="" target="_blank" rel="noreferrer"> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="40" height="40"/> </a>
 <!--       <br> Fram -->
       <a href="https://angular.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt="" width="40" height="43"/> </a>
       <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/thumbs/bootstrap-logo-vector.svg" alt="bootstrap" width="40" height="40"/> </a>
@@ -49,8 +49,9 @@
       <a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/1004/13/png-transparent-jquery-hd-logo.png" alt="Jquery" width="40" height="40"/> </a>
       <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.primefaces.org/wp-content/uploads/2018/05/primeng-logo.png" alt="" width="40" height="40"/> </a>
       <a href="#" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/1662024981302132740/Y0uz-3YC_400x400.jpg" alt="" width="40" height="40"/> </a>
+      <a href="https://ionicframework.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-ionic-3521510-2945013.png" alt="ionic" width="40" height="40"/> </a>
       <a href="" target="_blank" rel="noreferrer"> <img src="https://junit.org/junit5/assets/img/junit5-logo.png" alt="junit5" width="40" height="40"/> </a>
-      <a href="" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/hibernate-icon-491x512-qd6jy16p.png" alt="" width="40" height="40"/> </a>
+      <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/hibernate-logo.png" alt="" width="40" height="40"/> </a>
       <a href="" target="_blank" rel="noreferrer"> <img src="https://www.seekpng.com/png/full/259-2595551_java-logo-transparent-47568-loadtve-jsp-servlet.png" alt="" width="65" height="40"/> </a>
       <a href="" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Spring_Boot.svg/1200px-Spring_Boot.svg.png" alt="" width="40" height="40"/> </a>
       <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="" width="40" height="40"/> </a>
