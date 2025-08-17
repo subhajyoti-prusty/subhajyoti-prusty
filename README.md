@@ -12,7 +12,7 @@
 
 ## 👨‍🎓 About Me
 - 🎓 **B.Tech (CSE)** Final Year @ ITER, SOA University  
-- 💻 Passionate about **Web Development, DevOps, and Data Science**  
+- 💻 Passionate about **Web & App Development, DevOps, and Data Science**  
 - 🌟 Currently working as **Junior Developer & Business Logic Analyst**  
 - 🌐 Reach me: [LinkedIn](https://www.linkedin.com/in/subhajyoti-prusty-46b498257/) | 📧 subhajyoti.2004@gmail.com  
 
