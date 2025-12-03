@@ -46,7 +46,7 @@
 
 <!-- ### 🔹 Backend & Databases  -->
 
-  <img src="https://skillicons.dev/icons?i=spring,mysql,postgresql,maven,gradle,hibernate" />
+  <img src="https://skillicons.dev/icons?i=spring,mysql,postgresql,maven,docker,gradle,hibernate" />
   <img src="https://junit.org/junit5/assets/img/junit5-logo.png" height="45" title="JUnit"/>
 
 
