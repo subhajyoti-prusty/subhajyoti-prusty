@@ -38,7 +38,7 @@
 
 <!-- ### 🔹 Frameworks, Libraries & Tools  -->
 
-  <img src="https://skillicons.dev/icons?i=angular,bootstrap,tailwind,jquery,git,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=angular,bootstrap,tailwind,jquery,git,postman" />
   <img src="https://www.primefaces.org/wp-content/uploads/2018/05/primeng-logo.png" height="45" title="PrimeNG"/> 
   <img src="https://pbs.twimg.com/profile_images/1662024981302132740/Y0uz-3YC_400x400.jpg" height="45" title="PrimeFlex"/> 
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-ionic-3521510-2945013.png" height="45" title="Ionic"/>
